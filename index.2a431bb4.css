@@ -63,7 +63,7 @@
     .content{text-align:left;font-size:var(--font-size-3xl);color:var(--color-black);font-family:var(--font-raleway);width:1190px;height:581px;position:absolute;top:calc(50% - 298px);left:calc(50% - 595px)}
     
     .content-parent{
-        background-color: #D2DFFF;
+        background-color: #F7F7F9;
         width:100%;height:850px;
         position:relative;
         overflow:hidden}
